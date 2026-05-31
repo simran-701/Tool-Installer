@@ -1,0 +1,171 @@
+{
+    "termux": {
+
+        "git_termux": {
+
+            "figlet": "git clone https://github.com/cmatsuoka/figlet",
+            "lolcat": "git clone https://github.com/busyloop/lolcat",
+            "neofetch": "git clone https://github.com/dylanaraps/neofetch",
+            "cmatrix": "git clone https://github.com/abishekvashok/cmatrix",
+            "toilet": "git clone https://github.com/cacalabs/toilet",
+            "btop": "git clone https://github.com/aristocratos/btop",
+            "fzf": "git clone https://github.com/junegunn/fzf",
+            "bat": "git clone https://github.com/sharkdp/bat",
+            "exa": "git clone https://github.com/ogham/exa",
+            "micro": "git clone https://github.com/zyedidia/micro"
+
+        },
+
+        "pkg_termux": {
+
+            "python": "pkg install python -y",
+            "python2": "pkg install python2 -y",
+            "git": "pkg install git -y",
+            "curl": "pkg install curl -y",
+            "wget": "pkg install wget -y",
+            "nano": "pkg install nano -y",
+            "vim": "pkg install vim -y",
+            "php": "pkg install php -y",
+            "nodejs": "pkg install nodejs -y",
+            "ruby": "pkg install ruby -y",
+            "perl": "pkg install perl -y",
+            "clang": "pkg install clang -y",
+            "openssh": "pkg install openssh -y",
+            "ffmpeg": "pkg install ffmpeg -y",
+            "zip": "pkg install zip -y",
+            "unzip": "pkg install unzip -y",
+            "tmux": "pkg install tmux -y",
+            "htop": "pkg install htop -y",
+            "proot": "pkg install proot -y",
+            "tsu": "pkg install tsu -y"
+
+        },
+
+        "dev_termux": {
+
+            "flask": "pip install flask",
+            "django": "pip install django",
+            "fastapi": "pip install fastapi",
+            "numpy": "pip install numpy",
+            "pandas": "pip install pandas",
+            "requests": "pip install requests",
+            "bs4": "pip install beautifulsoup4",
+            "colorama": "pip install colorama",
+            "rich": "pip install rich",
+            "pillow": "pip install pillow",
+            "pygame": "pip install pygame",
+            "selenium": "pip install selenium",
+            "opencv": "pip install opencv-python",
+            "sympy": "pip install sympy",
+            "jupyter": "pip install jupyter"
+
+        },
+
+        "hacking_termux": {
+
+            "sqlmap": "git clone https://github.com/sqlmapproject/sqlmap",
+            "nmap": "pkg install nmap -y",
+            "hydra": "pkg install hydra -y",
+            "nikto": "git clone https://github.com/sullo/nikto",
+            "xsstrike": "git clone https://github.com/s0md3v/XSStrike",
+            "sublist3r": "git clone https://github.com/aboul3la/Sublist3r",
+            "theharvester": "git clone https://github.com/laramies/theHarvester",
+            "recon-ng": "git clone https://github.com/lanmaster53/recon-ng",
+            "dirsearch": "git clone https://github.com/maurosoria/dirsearch",
+            "amass": "pkg install amass -y",
+            "ffuf": "pkg install ffuf -y",
+            "wfuzz": "pip install wfuzz",
+            "metasploit": "pkg install unstable-repo -y && pkg install metasploit -y",
+            "aircrack-ng": "pkg install aircrack-ng -y",
+            "john": "pkg install john -y",
+            "hashcat": "pkg install hashcat -y"
+
+        }
+
+    },
+
+    "linux": {
+
+        "git_linux": {
+
+            "figlet": "git clone https://github.com/cmatsuoka/figlet",
+            "lolcat": "git clone https://github.com/busyloop/lolcat",
+            "neofetch": "git clone https://github.com/dylanaraps/neofetch",
+            "cmatrix": "git clone https://github.com/abishekvashok/cmatrix",
+            "toilet": "git clone https://github.com/cacalabs/toilet",
+            "btop": "git clone https://github.com/aristocratos/btop",
+            "fzf": "git clone https://github.com/junegunn/fzf",
+            "bat": "git clone https://github.com/sharkdp/bat",
+            "exa": "git clone https://github.com/ogham/exa",
+            "micro": "git clone https://github.com/zyedidia/micro"
+
+        },
+
+        "apt_linux": {
+
+            "python": "apt install python3 -y",
+            "git": "apt install git -y",
+            "curl": "apt install curl -y",
+            "wget": "apt install wget -y",
+            "nano": "apt install nano -y",
+            "vim": "apt install vim -y",
+            "php": "apt install php -y",
+            "nodejs": "apt install nodejs -y",
+            "ruby": "apt install ruby -y",
+            "perl": "apt install perl -y",
+            "clang": "apt install clang -y",
+            "openssh": "apt install openssh-client -y",
+            "ffmpeg": "apt install ffmpeg -y",
+            "zip": "apt install zip -y",
+            "unzip": "apt install unzip -y",
+            "tmux": "apt install tmux -y",
+            "htop": "apt install htop -y",
+            "docker": "apt install docker.io -y",
+            "net-tools": "apt install net-tools -y",
+            "build-essential": "apt install build-essential -y"
+
+        },
+
+        "dev_linux": {
+
+            "flask": "pip install flask",
+            "django": "pip install django",
+            "fastapi": "pip install fastapi",
+            "numpy": "pip install numpy",
+            "pandas": "pip install pandas",
+            "requests": "pip install requests",
+            "bs4": "pip install beautifulsoup4",
+            "colorama": "pip install colorama",
+            "rich": "pip install rich",
+            "pillow": "pip install pillow",
+            "pygame": "pip install pygame",
+            "selenium": "pip install selenium",
+            "opencv": "pip install opencv-python",
+            "sympy": "pip install sympy",
+            "jupyter": "pip install jupyter"
+
+        },
+
+        "hacking_linux": {
+
+            "sqlmap": "git clone https://github.com/sqlmapproject/sqlmap",
+            "nmap": "apt install nmap -y",
+            "hydra": "apt install hydra -y",
+            "nikto": "git clone https://github.com/sullo/nikto",
+            "xsstrike": "git clone https://github.com/s0md3v/XSStrike",
+            "sublist3r": "git clone https://github.com/aboul3la/Sublist3r",
+            "theharvester": "git clone https://github.com/laramies/theHarvester",
+            "recon-ng": "git clone https://github.com/lanmaster53/recon-ng",
+            "dirsearch": "git clone https://github.com/maurosoria/dirsearch",
+            "amass": "apt install amass -y",
+            "ffuf": "apt install ffuf -y",
+            "wfuzz": "pip install wfuzz",
+            "metasploit": "apt install metasploit-framework -y",
+            "aircrack-ng": "apt install aircrack-ng -y",
+            "john": "apt install john -y",
+            "hashcat": "apt install hashcat -y"
+
+        }
+
+    }
+}
