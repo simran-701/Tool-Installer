@@ -20,7 +20,7 @@ pkg update && pkg upgrade -y
 pkg install git python -y
 
 
-git clone 
+git clone https://github.com/simran-701/Tool-Installer.git
 
 
 cd Tool-Installer
