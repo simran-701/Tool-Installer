@@ -1,4 +1,3 @@
-
 # TOOL INSTALLER
 
 Advanced Python Tool Installer For Termux & Linux
@@ -16,8 +15,18 @@ Advanced Python Tool Installer For Termux & Linux
 ## Installation in termux
 
 pkg update && pkg upgrade -y
+
+
 pkg install git python -y
+
+
 git clone 
+
+
 cd Tool-Installer
+
+
 pip install rich
+
+
 python main.py
