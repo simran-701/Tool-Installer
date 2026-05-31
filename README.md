@@ -1,3 +1,6 @@
+Support:- https://discord.gg/Y2hjGxhsCG
+
+
 # TOOL INSTALLER
 
 Advanced Python Tool Installer For Termux & Linux
