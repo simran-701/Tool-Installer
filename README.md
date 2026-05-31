@@ -1,9 +1,10 @@
+## MADE BY SIMRAN
 Support:- https://discord.gg/Y2hjGxhsCG
 
 
 # TOOL INSTALLER
 
-Advanced Python Tool Installer For Termux & Linux
+Advanced Python Tool Installer For Termux & Linux and Install 100+ Tools Easily
 
 ## Features
 - Beautiful UI
